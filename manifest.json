@@ -1,11 +1,11 @@
 {
   "name": "Weather",
-  "start_url": "pwa-weather/index.html",
+  "start_url": "/pwa-weather/index.html",
   "display": "standalone",
   "orientation": "landscape",
   "theme_color": "#87cefa",
   "icons": [{
-    "src": "icon.png",
+    "src": "/pwa-weather/icon.png",
     "size": "256x256"
   }]
 }
