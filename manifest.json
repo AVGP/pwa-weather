@@ -1,6 +1,6 @@
 {
   "name": "Weather",
-  "start_url": "/index.html",
+  "start_url": "pwa-weather/index.html",
   "display": "standalone",
   "orientation": "landscape",
   "theme_color": "#87cefa",
